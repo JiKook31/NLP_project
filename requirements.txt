@@ -1,0 +1,4 @@
+sacremoses subword_nmt
+fastBPE
+torch
+tensorflow
